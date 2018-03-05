@@ -2,8 +2,7 @@
   "name": "parcel-vue",
   "version": "1.0.0",
   "main": "main.js",
-  "license": "MIT",
-  "author": "w3c-king",
+  "license": "MIT","author": "w3c-king",
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html --public-url /"
